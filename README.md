@@ -74,6 +74,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kushanitharushika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushanitharushika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
@@ -82,18 +84,18 @@
 
 ###
 
-<h3 align="center">🫧 Social Media 🫧</h3>
+<h3 align="center">⌛ Contact me</h3>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kushani-tharushika-9a23a4270" target="_blank">
+  <a href="https://www.linkedin.com/in/kushani-tharushika-9a23a4270">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/kushani_tharushika_?igsh=MWluaHc5d2duZjZmdg==" target="_blank">
+  <a href="https://www.instagram.com/kushani_tharushika_?igsh=MWluaHc5d2duZjZmdg==">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:kushanitharushika23@gmail.com" target="_blank">
+  <a href="mailto:kushanitharushika23@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
