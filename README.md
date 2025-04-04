@@ -1,5 +1,16 @@
-# 💫 About Me:
-✨I'm a Software Engineering Undergraduate in Plymouth University<br>❤️Passionate in UI/UX Designing and Frontend Developing.<br>📚 I'm currently learning Flutter and Software Development tools
+<h1 align="left">👋 Hey I'm Kushani ...</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kushanitharushika.kushanitharushika&"  />
+</div>
+
+
+<h2 align="left">💫 About Me:</h2>
+
+
+<h4 align="left">✨I'm a Software Engineering Undergraduate in Plymouth University<br>❤️Passionate in UI/UX Designing and Frontend Developing.<br>📚 I'm currently learning Flutter and Software Development tools</h4>
 
 ###
 
