@@ -1,6 +1,13 @@
 # 💫 About Me:
 ✨I'm a Software Engineering Undergraduate in Plymouth University<br>❤️Passionate in UI/UX Designing and Frontend Developing.<br>📚 I'm currently learning Flutter and Software Development tools
 
+###
+
+<h2 align="left">💥Projects and Experience</h2>
+
+###
+
+<h4 align="left">💄BeautyBoutique POS system using C# programming language<br>📲 EasyIdama Property Listing App using Flutter, Dart and Firebase</h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushani_tharushika_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushani-tharushika-9a23a4270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushanitharushika23@gmail.com) 
